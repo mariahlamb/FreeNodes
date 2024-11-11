@@ -20,6 +20,139 @@ proxies:
   ws-path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
+  name: 美国(yudou66.com 玉豆免费节点)
+  network: ws
+  port: 2082
+  server: japan.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-headers:
+    Host: ip3.6929198.xyz
+  ws-path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 美国(yudou66.com 玉豆免费节点) 2
+  network: ws
+  port: 2095
+  server: ip.sb
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-headers:
+    Host: ip8.6016725.xyz
+  ws-path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 美国(yudou66.com 玉豆免费节点) 3
+  network: ws
+  port: 2082
+  server: japan.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-headers:
+    Host: ip3.6929198.xyz
+  ws-path: github.com/Alvin9999
+- cipher: chacha20-ietf-poly1305
+  name: 俄罗斯(yudou66.com 玉豆免费节点)
+  password: 7ZaTlsc9otw2qoPswW7rtd
+  port: 12575
+  server: 89.185.84.185
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 美国(yudou66.com 玉豆免费节点) 4
+  network: ws
+  port: 2095
+  server: russia.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-headers:
+    Host: ip11.6016725.xyz
+  ws-path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 美国(yudou66.com 玉豆免费节点) 5
+  network: ws
+  port: 2082
+  server: russia.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-headers:
+    Host: ip3.6929198.xyz
+  ws-path: github.com/Alvin9999
+- cipher: aes-256-gcm
+  name: 美国(yudou66.com 玉豆免费节点) 6
+  password: KixLvKzwjekG00rm
+  port: 8000
+  server: 38.121.43.204
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: 美国(yudou66.com 玉豆免费节点) 7
+  password: pKEW8JPByTVTLtM
+  port: 443
+  server: 38.114.114.143
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 德国(yudou66.com 玉豆免费节点)
+  password: h8Og8v6zkX9ldVFYYajb0g
+  port: 1080
+  server: 209.38.188.162
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 美国(yudou66.com 玉豆免费节点) 8
+  network: ws
+  port: 2095
+  server: fbi.gov
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-headers:
+    Host: ip2.6016725.xyz
+  ws-path: github.com/Alvin9999
+- cipher: chacha20-ietf-poly1305
+  name: 德国(yudou66.com 玉豆免费节点) 2
+  password: 1RWwXhwfAB5gAEozU4G2Pg
+  port: 8080
+  server: 45.87.175.192
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 美国(yudou66.com 玉豆免费节点) 9
+  network: ws
+  port: 2082
+  server: singapore.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-headers:
+    Host: ip12.6929198.xyz
+  ws-path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
   name: 加拿大(yudou66.com 玉豆免费节点) 2
   network: ws
   port: 2082
@@ -47,7 +180,7 @@ proxies:
     Host: ip18.6929198.xyz
   ws-path: /github.com/Alvin9999
 - cipher: chacha20-ietf-poly1305
-  name: 美国(yudou66.com 玉豆免费节点)
+  name: 美国(yudou66.com 玉豆免费节点) 10
   password: SjdGCHwafjktt1rzpGxTKYTvVBWb8Xa6E5DTr6MzbdHQSwvpLiDczj3n6MBjy2uyFSzgqgvCWsDQmpM4VQzfPzyGYF58wdyD
   port: 42029
   server: 208.67.105.196
@@ -55,7 +188,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 美国(yudou66.com 玉豆免费节点) 2
+  name: 美国(yudou66.com 玉豆免费节点) 11
   network: ws
   port: 2095
   server: malaysia.com
@@ -67,117 +200,6 @@ proxies:
   ws-headers:
     Host: ip2.6016725.xyz
   ws-path: github.com/Alvin9999
-- cipher: chacha20-ietf-poly1305
-  name: 美国(yudou66.com 玉豆免费节点) 3
-  password: 5mgZJzPv7hrLX4KMdPIeAW
-  port: 21771
-  server: 150.241.102.95
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  name: 美国(yudou66.com 玉豆免费节点) 4
-  password: shadowsocks
-  port: 443
-  server: 156.146.38.168
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  name: 英国(yudou66.com 玉豆免费节点)
-  password: shadowsocks
-  port: 443
-  server: 141.98.101.182
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 美国(yudou66.com 玉豆免费节点) 5
-  port: 15086
-  server: 15086.kuaiyin02.top
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 9f513161-576b-3abc-9c98-06e52c3a24c6
-- cipher: aes-128-gcm
-  name: 美国(yudou66.com 玉豆免费节点) 6
-  password: shadowsocks
-  port: 443
-  server: 212.102.47.131
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  name: 美国(yudou66.com 玉豆免费节点) 7
-  password: shadowsocks
-  port: 443
-  server: 37.19.198.160
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 德国(yudou66.com 玉豆免费节点)
-  password: cvII85TrW6n0OGyfpHVS1u
-  port: 8080
-  server: 45.87.175.192
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 美国(yudou66.com 玉豆免费节点) 8
-  port: 33530
-  server: 45.92.39.236
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 6ef488cc-1a8e-4a63-d53b-b388a1832477
-- cipher: chacha20-ietf-poly1305
-  name: 德国(yudou66.com 玉豆免费节点) 2
-  password: 1RWwXhwfAB5gAEozU4G2Pg
-  port: 8080
-  server: 45.87.175.181
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 美国(yudou66.com 玉豆免费节点) 9
-  network: ws
-  port: 2095
-  server: fbi.gov
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-headers:
-    Host: ip2.6016725.xyz
-  ws-path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 美国(yudou66.com 玉豆免费节点) 10
-  network: ws
-  port: 2095
-  server: icook.tw
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-headers:
-    Host: ip2.6016725.xyz
-  ws-path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 美国(yudou66.com 玉豆免费节点) 11
-  network: ws
-  port: 80
-  server: speed.cloudflare.com
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 76221bfb-e92f-4e80-81c5-6fe48f50ac0b
-  ws-headers:
-    Host: 7ehhjdelicate-unit-e634.bowik41429.workers.dev
-  ws-path: /glweidf.sbs/linkws
 - alterId: 0
   cipher: auto
   name: 美国(yudou66.com 玉豆免费节点) 12
@@ -192,23 +214,173 @@ proxies:
   ws-headers:
     Host: ip2.6016725.xyz
   ws-path: github.com/Alvin9999
+- cipher: aes-256-gcm
+  name: 美国(yudou66.com 玉豆免费节点) 13
+  password: cdBIDV42DCwnfIN
+  port: 8118
+  server: 38.121.43.204
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: 英国(yudou66.com 玉豆免费节点)
+  password: shadowsocks
+  port: 443
+  server: 141.98.101.180
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 美国(yudou66.com 玉豆免费节点) 14
+  password: 1RWwXhwfAB5gAEozU4G2Pg
+  port: 8080
+  server: 45.87.175.181
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: 美国(yudou66.com 玉豆免费节点) 15
+  password: shadowsocks
+  port: 443
+  server: 212.102.47.131
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 美国(yudou66.com 玉豆免费节点) 16
+  password: 5mgZJzPv7hrLX4KMdPIeAW
+  port: 21771
+  server: 150.241.102.95
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: 英国(yudou66.com 玉豆免费节点) 2
+  password: shadowsocks
+  port: 443
+  server: 141.98.101.179
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: 美国(yudou66.com 玉豆免费节点) 17
+  password: shadowsocks
+  port: 443
+  server: 149.22.95.183
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: 美国(yudou66.com 玉豆免费节点) 18
+  password: shadowsocks
+  port: 443
+  server: 156.146.38.168
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
-  name: 美国(yudou66.com 玉豆免费节点) 13
+  name: 美国(yudou66.com 玉豆免费节点) 19
   network: ws
   port: 2095
-  server: russia.com
+  server: icook.tw
   skip-cert-verify: true
   tls: false
   type: vmess
   udp: true
   uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
   ws-headers:
-    Host: ip11.6016725.xyz
+    Host: ip15.6016725.xyz
+  ws-path: /github.com/Alvin9999
+- cipher: chacha20-ietf-poly1305
+  name: 美国(yudou66.com 玉豆免费节点) 20
+  password: 5cp9Z3iWnJZ2
+  port: 443
+  server: 205.134.180.150
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: 美国(yudou66.com 玉豆免费节点) 21
+  password: shadowsocks
+  port: 443
+  server: 37.19.198.160
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 德国(yudou66.com 玉豆免费节点) 3
+  password: cvII85TrW6n0OGyfpHVS1u
+  port: 8080
+  server: 45.87.175.192
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 美国(yudou66.com 玉豆免费节点) 22
+  network: ws
+  port: 2082
+  server: fbi.gov
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-headers:
+    Host: ip18.6929198.xyz
   ws-path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 美国(yudou66.com 玉豆免费节点) 14
+  name: 美国(yudou66.com 玉豆免费节点) 23
+  network: ws
+  port: 2095
+  server: icook.tw
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-headers:
+    Host: ip2.6016725.xyz
+  ws-path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 美国(yudou66.com 玉豆免费节点) 24
+  network: ws
+  port: 2082
+  server: icook.tw
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-headers:
+    Host: ip3.6929198.xyz
+  ws-path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 美国(yudou66.com 玉豆免费节点) 25
+  port: 15086
+  server: 15086.kuaiyin02.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 9f513161-576b-3abc-9c98-06e52c3a24c6
+- cipher: aes-256-gcm
+  name: 美国(yudou66.com 玉豆免费节点) 26
+  password: faBAoD54k87UJG7
+  port: 2376
+  server: 38.114.114.143
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 美国(yudou66.com 玉豆免费节点) 27
+  network: ws
+  port: 80
+  server: speed.cloudflare.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 76221bfb-e92f-4e80-81c5-6fe48f50ac0b
+  ws-headers:
+    Host: 7ehhjdelicate-unit-e634.bowik41429.workers.dev
+  ws-path: /glweidf.sbs/linkws
+- alterId: 0
+  cipher: auto
+  name: 美国(yudou66.com 玉豆免费节点) 28
   network: ws
   port: 2095
   server: singapore.com
@@ -220,33 +392,17 @@ proxies:
   ws-headers:
     Host: ip2.6016725.xyz
   ws-path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 美国(yudou66.com 玉豆免费节点) 15
-  network: ws
-  port: 2082
-  server: russia.com
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-headers:
-    Host: ip3.6929198.xyz
-  ws-path: github.com/Alvin9999
 proxy-groups:
 - name: 🔰 节点选择
   proxies:
   - ♻️ 自动选择
   - 🎯 全球直连
   - 加拿大(yudou66.com 玉豆免费节点)
-  - 加拿大(yudou66.com 玉豆免费节点) 2
-  - 加拿大(yudou66.com 玉豆免费节点) 3
   - 美国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 2
   - 美国(yudou66.com 玉豆免费节点) 3
+  - 俄罗斯(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 4
-  - 英国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 5
   - 美国(yudou66.com 玉豆免费节点) 6
   - 美国(yudou66.com 玉豆免费节点) 7
@@ -254,24 +410,40 @@ proxy-groups:
   - 美国(yudou66.com 玉豆免费节点) 8
   - 德国(yudou66.com 玉豆免费节点) 2
   - 美国(yudou66.com 玉豆免费节点) 9
+  - 加拿大(yudou66.com 玉豆免费节点) 2
+  - 加拿大(yudou66.com 玉豆免费节点) 3
   - 美国(yudou66.com 玉豆免费节点) 10
   - 美国(yudou66.com 玉豆免费节点) 11
   - 美国(yudou66.com 玉豆免费节点) 12
   - 美国(yudou66.com 玉豆免费节点) 13
+  - 英国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 14
   - 美国(yudou66.com 玉豆免费节点) 15
+  - 美国(yudou66.com 玉豆免费节点) 16
+  - 英国(yudou66.com 玉豆免费节点) 2
+  - 美国(yudou66.com 玉豆免费节点) 17
+  - 美国(yudou66.com 玉豆免费节点) 18
+  - 美国(yudou66.com 玉豆免费节点) 19
+  - 美国(yudou66.com 玉豆免费节点) 20
+  - 美国(yudou66.com 玉豆免费节点) 21
+  - 德国(yudou66.com 玉豆免费节点) 3
+  - 美国(yudou66.com 玉豆免费节点) 22
+  - 美国(yudou66.com 玉豆免费节点) 23
+  - 美国(yudou66.com 玉豆免费节点) 24
+  - 美国(yudou66.com 玉豆免费节点) 25
+  - 美国(yudou66.com 玉豆免费节点) 26
+  - 美国(yudou66.com 玉豆免费节点) 27
+  - 美国(yudou66.com 玉豆免费节点) 28
   type: select
 - interval: 300
   name: ♻️ 自动选择
   proxies:
   - 加拿大(yudou66.com 玉豆免费节点)
-  - 加拿大(yudou66.com 玉豆免费节点) 2
-  - 加拿大(yudou66.com 玉豆免费节点) 3
   - 美国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 2
   - 美国(yudou66.com 玉豆免费节点) 3
+  - 俄罗斯(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 4
-  - 英国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 5
   - 美国(yudou66.com 玉豆免费节点) 6
   - 美国(yudou66.com 玉豆免费节点) 7
@@ -279,12 +451,30 @@ proxy-groups:
   - 美国(yudou66.com 玉豆免费节点) 8
   - 德国(yudou66.com 玉豆免费节点) 2
   - 美国(yudou66.com 玉豆免费节点) 9
+  - 加拿大(yudou66.com 玉豆免费节点) 2
+  - 加拿大(yudou66.com 玉豆免费节点) 3
   - 美国(yudou66.com 玉豆免费节点) 10
   - 美国(yudou66.com 玉豆免费节点) 11
   - 美国(yudou66.com 玉豆免费节点) 12
   - 美国(yudou66.com 玉豆免费节点) 13
+  - 英国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 14
   - 美国(yudou66.com 玉豆免费节点) 15
+  - 美国(yudou66.com 玉豆免费节点) 16
+  - 英国(yudou66.com 玉豆免费节点) 2
+  - 美国(yudou66.com 玉豆免费节点) 17
+  - 美国(yudou66.com 玉豆免费节点) 18
+  - 美国(yudou66.com 玉豆免费节点) 19
+  - 美国(yudou66.com 玉豆免费节点) 20
+  - 美国(yudou66.com 玉豆免费节点) 21
+  - 德国(yudou66.com 玉豆免费节点) 3
+  - 美国(yudou66.com 玉豆免费节点) 22
+  - 美国(yudou66.com 玉豆免费节点) 23
+  - 美国(yudou66.com 玉豆免费节点) 24
+  - 美国(yudou66.com 玉豆免费节点) 25
+  - 美国(yudou66.com 玉豆免费节点) 26
+  - 美国(yudou66.com 玉豆免费节点) 27
+  - 美国(yudou66.com 玉豆免费节点) 28
   type: url-test
   url: http://www.gstatic.com/generate_204
 - name: 🎥 NETFLIX
@@ -293,13 +483,11 @@ proxy-groups:
   - ♻️ 自动选择
   - 🎯 全球直连
   - 加拿大(yudou66.com 玉豆免费节点)
-  - 加拿大(yudou66.com 玉豆免费节点) 2
-  - 加拿大(yudou66.com 玉豆免费节点) 3
   - 美国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 2
   - 美国(yudou66.com 玉豆免费节点) 3
+  - 俄罗斯(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 4
-  - 英国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 5
   - 美国(yudou66.com 玉豆免费节点) 6
   - 美国(yudou66.com 玉豆免费节点) 7
@@ -307,12 +495,30 @@ proxy-groups:
   - 美国(yudou66.com 玉豆免费节点) 8
   - 德国(yudou66.com 玉豆免费节点) 2
   - 美国(yudou66.com 玉豆免费节点) 9
+  - 加拿大(yudou66.com 玉豆免费节点) 2
+  - 加拿大(yudou66.com 玉豆免费节点) 3
   - 美国(yudou66.com 玉豆免费节点) 10
   - 美国(yudou66.com 玉豆免费节点) 11
   - 美国(yudou66.com 玉豆免费节点) 12
   - 美国(yudou66.com 玉豆免费节点) 13
+  - 英国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 14
   - 美国(yudou66.com 玉豆免费节点) 15
+  - 美国(yudou66.com 玉豆免费节点) 16
+  - 英国(yudou66.com 玉豆免费节点) 2
+  - 美国(yudou66.com 玉豆免费节点) 17
+  - 美国(yudou66.com 玉豆免费节点) 18
+  - 美国(yudou66.com 玉豆免费节点) 19
+  - 美国(yudou66.com 玉豆免费节点) 20
+  - 美国(yudou66.com 玉豆免费节点) 21
+  - 德国(yudou66.com 玉豆免费节点) 3
+  - 美国(yudou66.com 玉豆免费节点) 22
+  - 美国(yudou66.com 玉豆免费节点) 23
+  - 美国(yudou66.com 玉豆免费节点) 24
+  - 美国(yudou66.com 玉豆免费节点) 25
+  - 美国(yudou66.com 玉豆免费节点) 26
+  - 美国(yudou66.com 玉豆免费节点) 27
+  - 美国(yudou66.com 玉豆免费节点) 28
   type: select
 - name: ⛔️ 广告拦截
   proxies:
@@ -332,13 +538,11 @@ proxy-groups:
   - ♻️ 自动选择
   - 🎯 全球直连
   - 加拿大(yudou66.com 玉豆免费节点)
-  - 加拿大(yudou66.com 玉豆免费节点) 2
-  - 加拿大(yudou66.com 玉豆免费节点) 3
   - 美国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 2
   - 美国(yudou66.com 玉豆免费节点) 3
+  - 俄罗斯(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 4
-  - 英国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 5
   - 美国(yudou66.com 玉豆免费节点) 6
   - 美国(yudou66.com 玉豆免费节点) 7
@@ -346,12 +550,30 @@ proxy-groups:
   - 美国(yudou66.com 玉豆免费节点) 8
   - 德国(yudou66.com 玉豆免费节点) 2
   - 美国(yudou66.com 玉豆免费节点) 9
+  - 加拿大(yudou66.com 玉豆免费节点) 2
+  - 加拿大(yudou66.com 玉豆免费节点) 3
   - 美国(yudou66.com 玉豆免费节点) 10
   - 美国(yudou66.com 玉豆免费节点) 11
   - 美国(yudou66.com 玉豆免费节点) 12
   - 美国(yudou66.com 玉豆免费节点) 13
+  - 英国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 14
   - 美国(yudou66.com 玉豆免费节点) 15
+  - 美国(yudou66.com 玉豆免费节点) 16
+  - 英国(yudou66.com 玉豆免费节点) 2
+  - 美国(yudou66.com 玉豆免费节点) 17
+  - 美国(yudou66.com 玉豆免费节点) 18
+  - 美国(yudou66.com 玉豆免费节点) 19
+  - 美国(yudou66.com 玉豆免费节点) 20
+  - 美国(yudou66.com 玉豆免费节点) 21
+  - 德国(yudou66.com 玉豆免费节点) 3
+  - 美国(yudou66.com 玉豆免费节点) 22
+  - 美国(yudou66.com 玉豆免费节点) 23
+  - 美国(yudou66.com 玉豆免费节点) 24
+  - 美国(yudou66.com 玉豆免费节点) 25
+  - 美国(yudou66.com 玉豆免费节点) 26
+  - 美国(yudou66.com 玉豆免费节点) 27
+  - 美国(yudou66.com 玉豆免费节点) 28
   type: select
 - name: 🌏 国内媒体
   proxies:
@@ -363,13 +585,11 @@ proxy-groups:
   - 🎯 全球直连
   - 🔰 节点选择
   - 加拿大(yudou66.com 玉豆免费节点)
-  - 加拿大(yudou66.com 玉豆免费节点) 2
-  - 加拿大(yudou66.com 玉豆免费节点) 3
   - 美国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 2
   - 美国(yudou66.com 玉豆免费节点) 3
+  - 俄罗斯(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 4
-  - 英国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 5
   - 美国(yudou66.com 玉豆免费节点) 6
   - 美国(yudou66.com 玉豆免费节点) 7
@@ -377,25 +597,41 @@ proxy-groups:
   - 美国(yudou66.com 玉豆免费节点) 8
   - 德国(yudou66.com 玉豆免费节点) 2
   - 美国(yudou66.com 玉豆免费节点) 9
+  - 加拿大(yudou66.com 玉豆免费节点) 2
+  - 加拿大(yudou66.com 玉豆免费节点) 3
   - 美国(yudou66.com 玉豆免费节点) 10
   - 美国(yudou66.com 玉豆免费节点) 11
   - 美国(yudou66.com 玉豆免费节点) 12
   - 美国(yudou66.com 玉豆免费节点) 13
+  - 英国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 14
   - 美国(yudou66.com 玉豆免费节点) 15
+  - 美国(yudou66.com 玉豆免费节点) 16
+  - 英国(yudou66.com 玉豆免费节点) 2
+  - 美国(yudou66.com 玉豆免费节点) 17
+  - 美国(yudou66.com 玉豆免费节点) 18
+  - 美国(yudou66.com 玉豆免费节点) 19
+  - 美国(yudou66.com 玉豆免费节点) 20
+  - 美国(yudou66.com 玉豆免费节点) 21
+  - 德国(yudou66.com 玉豆免费节点) 3
+  - 美国(yudou66.com 玉豆免费节点) 22
+  - 美国(yudou66.com 玉豆免费节点) 23
+  - 美国(yudou66.com 玉豆免费节点) 24
+  - 美国(yudou66.com 玉豆免费节点) 25
+  - 美国(yudou66.com 玉豆免费节点) 26
+  - 美国(yudou66.com 玉豆免费节点) 27
+  - 美国(yudou66.com 玉豆免费节点) 28
   type: select
 - name: 📲 电报信息
   proxies:
   - 🔰 节点选择
   - 🎯 全球直连
   - 加拿大(yudou66.com 玉豆免费节点)
-  - 加拿大(yudou66.com 玉豆免费节点) 2
-  - 加拿大(yudou66.com 玉豆免费节点) 3
   - 美国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 2
   - 美国(yudou66.com 玉豆免费节点) 3
+  - 俄罗斯(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 4
-  - 英国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 5
   - 美国(yudou66.com 玉豆免费节点) 6
   - 美国(yudou66.com 玉豆免费节点) 7
@@ -403,12 +639,30 @@ proxy-groups:
   - 美国(yudou66.com 玉豆免费节点) 8
   - 德国(yudou66.com 玉豆免费节点) 2
   - 美国(yudou66.com 玉豆免费节点) 9
+  - 加拿大(yudou66.com 玉豆免费节点) 2
+  - 加拿大(yudou66.com 玉豆免费节点) 3
   - 美国(yudou66.com 玉豆免费节点) 10
   - 美国(yudou66.com 玉豆免费节点) 11
   - 美国(yudou66.com 玉豆免费节点) 12
   - 美国(yudou66.com 玉豆免费节点) 13
+  - 英国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 14
   - 美国(yudou66.com 玉豆免费节点) 15
+  - 美国(yudou66.com 玉豆免费节点) 16
+  - 英国(yudou66.com 玉豆免费节点) 2
+  - 美国(yudou66.com 玉豆免费节点) 17
+  - 美国(yudou66.com 玉豆免费节点) 18
+  - 美国(yudou66.com 玉豆免费节点) 19
+  - 美国(yudou66.com 玉豆免费节点) 20
+  - 美国(yudou66.com 玉豆免费节点) 21
+  - 德国(yudou66.com 玉豆免费节点) 3
+  - 美国(yudou66.com 玉豆免费节点) 22
+  - 美国(yudou66.com 玉豆免费节点) 23
+  - 美国(yudou66.com 玉豆免费节点) 24
+  - 美国(yudou66.com 玉豆免费节点) 25
+  - 美国(yudou66.com 玉豆免费节点) 26
+  - 美国(yudou66.com 玉豆免费节点) 27
+  - 美国(yudou66.com 玉豆免费节点) 28
   type: select
 - name: 🍎 苹果服务
   proxies:
@@ -416,13 +670,11 @@ proxy-groups:
   - 🎯 全球直连
   - ♻️ 自动选择
   - 加拿大(yudou66.com 玉豆免费节点)
-  - 加拿大(yudou66.com 玉豆免费节点) 2
-  - 加拿大(yudou66.com 玉豆免费节点) 3
   - 美国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 2
   - 美国(yudou66.com 玉豆免费节点) 3
+  - 俄罗斯(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 4
-  - 英国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 5
   - 美国(yudou66.com 玉豆免费节点) 6
   - 美国(yudou66.com 玉豆免费节点) 7
@@ -430,12 +682,30 @@ proxy-groups:
   - 美国(yudou66.com 玉豆免费节点) 8
   - 德国(yudou66.com 玉豆免费节点) 2
   - 美国(yudou66.com 玉豆免费节点) 9
+  - 加拿大(yudou66.com 玉豆免费节点) 2
+  - 加拿大(yudou66.com 玉豆免费节点) 3
   - 美国(yudou66.com 玉豆免费节点) 10
   - 美国(yudou66.com 玉豆免费节点) 11
   - 美国(yudou66.com 玉豆免费节点) 12
   - 美国(yudou66.com 玉豆免费节点) 13
+  - 英国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 14
   - 美国(yudou66.com 玉豆免费节点) 15
+  - 美国(yudou66.com 玉豆免费节点) 16
+  - 英国(yudou66.com 玉豆免费节点) 2
+  - 美国(yudou66.com 玉豆免费节点) 17
+  - 美国(yudou66.com 玉豆免费节点) 18
+  - 美国(yudou66.com 玉豆免费节点) 19
+  - 美国(yudou66.com 玉豆免费节点) 20
+  - 美国(yudou66.com 玉豆免费节点) 21
+  - 德国(yudou66.com 玉豆免费节点) 3
+  - 美国(yudou66.com 玉豆免费节点) 22
+  - 美国(yudou66.com 玉豆免费节点) 23
+  - 美国(yudou66.com 玉豆免费节点) 24
+  - 美国(yudou66.com 玉豆免费节点) 25
+  - 美国(yudou66.com 玉豆免费节点) 26
+  - 美国(yudou66.com 玉豆免费节点) 27
+  - 美国(yudou66.com 玉豆免费节点) 28
   type: select
 - name: 🎯 全球直连
   proxies:
@@ -452,13 +722,11 @@ proxy-groups:
   - 🎯 全球直连
   - ♻️ 自动选择
   - 加拿大(yudou66.com 玉豆免费节点)
-  - 加拿大(yudou66.com 玉豆免费节点) 2
-  - 加拿大(yudou66.com 玉豆免费节点) 3
   - 美国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 2
   - 美国(yudou66.com 玉豆免费节点) 3
+  - 俄罗斯(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 4
-  - 英国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 5
   - 美国(yudou66.com 玉豆免费节点) 6
   - 美国(yudou66.com 玉豆免费节点) 7
@@ -466,12 +734,30 @@ proxy-groups:
   - 美国(yudou66.com 玉豆免费节点) 8
   - 德国(yudou66.com 玉豆免费节点) 2
   - 美国(yudou66.com 玉豆免费节点) 9
+  - 加拿大(yudou66.com 玉豆免费节点) 2
+  - 加拿大(yudou66.com 玉豆免费节点) 3
   - 美国(yudou66.com 玉豆免费节点) 10
   - 美国(yudou66.com 玉豆免费节点) 11
   - 美国(yudou66.com 玉豆免费节点) 12
   - 美国(yudou66.com 玉豆免费节点) 13
+  - 英国(yudou66.com 玉豆免费节点)
   - 美国(yudou66.com 玉豆免费节点) 14
   - 美国(yudou66.com 玉豆免费节点) 15
+  - 美国(yudou66.com 玉豆免费节点) 16
+  - 英国(yudou66.com 玉豆免费节点) 2
+  - 美国(yudou66.com 玉豆免费节点) 17
+  - 美国(yudou66.com 玉豆免费节点) 18
+  - 美国(yudou66.com 玉豆免费节点) 19
+  - 美国(yudou66.com 玉豆免费节点) 20
+  - 美国(yudou66.com 玉豆免费节点) 21
+  - 德国(yudou66.com 玉豆免费节点) 3
+  - 美国(yudou66.com 玉豆免费节点) 22
+  - 美国(yudou66.com 玉豆免费节点) 23
+  - 美国(yudou66.com 玉豆免费节点) 24
+  - 美国(yudou66.com 玉豆免费节点) 25
+  - 美国(yudou66.com 玉豆免费节点) 26
+  - 美国(yudou66.com 玉豆免费节点) 27
+  - 美国(yudou66.com 玉豆免费节点) 28
   type: select
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
